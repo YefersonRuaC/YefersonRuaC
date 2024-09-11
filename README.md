@@ -1,6 +1,6 @@
 ## Hi there 👋! Welcome to my GitHub profile! I am Yeferson
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yrua52@gmail.com)](mailto:yrua52@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/Clement-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yeferson-rua-119216326/)](https://www.linkedin.com/in/yeferson-rua-119216326/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yrua52@gmail.com)](mailto:yrua52@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/Yeferson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yeferson-rua-119216326/)](https://www.linkedin.com/in/yeferson-rua-119216326/)
 
 
 <!--
