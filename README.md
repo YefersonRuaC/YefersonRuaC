@@ -1,8 +1,10 @@
-## Hi there 👋! Welcome to my GitHub profile! I am Yeferson
+<div align="center">
+  <h2>Hi there 👋! Welcome to my GitHub profile! I am Yeferson</h2>
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yrua52@gmail.com)](mailto:yrua52@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/Yeferson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yeferson-rua-119216326/)](https://www.linkedin.com/in/yeferson-rua-119216326/)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/yeferson-rua-119216326/) &nbsp;
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:yrua52@gmail.com?subject=Hello%20Jasper,%20From%20Github)
 
-
+</div>
 <!--
 **YefersonRuaC/YefersonRuaC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
