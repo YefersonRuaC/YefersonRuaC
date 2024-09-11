@@ -2,7 +2,7 @@
   <h2>Hi there 👋! Welcome to my GitHub profile! I am Yeferson</h2>
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/yeferson-rua-119216326/) &nbsp;
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:yrua52@gmail.com?subject=Hello%20Jasper,%20From%20Github)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:yrua52@gmail.com?subject=Hello%20Yeferson)
 
 </div>
 <!--
