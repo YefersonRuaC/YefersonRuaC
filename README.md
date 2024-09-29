@@ -13,7 +13,7 @@
   👯 I’m looking to collaborate on excited and professional projects.
   
 ## My Tech Stack 💻
-  [![My Skills](https://skillicons.dev/icons?i=php,laravel,vue,js,tailwind,mongodb,mysql)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=php,laravel,js,vue,tailwind,mongodb,mysql)](https://skillicons.dev)
 
 ## My stats 🏆
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YefersonRuaC&layout=compact&theme=dark) 
